@@ -1,6 +1,6 @@
 	
 ### 🎈 Solved.ac 🎈
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gunoo22)](https://solved.ac/geonwule)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gunoo22)](https://solved.ac/gunoo22)
 
 ### 🛠️ Github Stats 🛠️
 <p>
