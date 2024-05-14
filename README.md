@@ -9,26 +9,26 @@
 ## 🛠️ Skills 🛠️
 
 ### Language
-<img src="https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white"/><a>
-<img src="https://img.shields.io/badge/-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/><a>
+<img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
 
 ### Database
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 ### Development Tools
-<img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=OpenGL&logoColor=white"/><a>
-<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=OpenGL&logoColor=white"/><a>
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 ### Documentation
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/><a>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/><a>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 ### Tech-blog
-[![Techblog](https://img.shields.io/badge/Techblog-000000?style=flat&logo=tistory&logoColor=white)](https://geonwule.tistory.com/)
-[![Email](https://img.shields.io/badge/email-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:geonwlee22@gmail.com)](mailto:geonwlee22@gmail.com)
+[![Techblog](https://img.shields.io/badge/Techblog-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://geonwule.tistory.com/)
+[![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:geonwlee22@gmail.com)](mailto:geonwlee22@gmail.com)
 
 <!--
 https://www.d5br5.dev/blog/pro_tip/tech_stack_icon  // 기술스택 뱃지 활용법 블로그
