@@ -28,7 +28,7 @@
 
 ### Tech-blog
 [![Techblog](https://img.shields.io/badge/Techblog-000000?style=flat&logo=tistory&logoColor=white)](https://geonwule.tistory.com/)
-[![Email](https://img.shields.io/badge/email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:geonwlee22@gmail.com)
+[![Email](https://img.shields.io/badge/email-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:geonwlee22@gmail.com)](mailto:geonwlee22@gmail.com)
 
 <!--
 https://www.d5br5.dev/blog/pro_tip/tech_stack_icon  // 기술스택 뱃지 활용법 블로그
