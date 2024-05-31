@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/><a>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
-### Tech-blog
+## 📫 Contact Me
 [![Techblog](https://img.shields.io/badge/Techblog-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://geonwule.tistory.com/)
 [![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:geonwlee22@gmail.com)](mailto:geonwlee22@gmail.com)
 
